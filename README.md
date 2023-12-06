@@ -1,3 +1,32 @@
+# NewsApp
+<br>
+Hi guys!! I am joshita and this is the assignment project provided to me.
+<br>
+I have created a NewsApp with the help of React.js and firebase.So for authentication I have used google auth from Firebase for signin and signout.<br>
+With the help of provided API I fetched the real-time data.<br>
+
+# Features of NewsAPP: 
+<br>
+Toggle button for grid view and list view<br>
+Created Favorite Articles which allows users to mark articles as favorites by tapping on a button.<br>
+
+# State Managing Tools: <br>
+I created a NewsContext using createContext from React. This context likely contains the state related to news articles and user information.<br>
+ Used useState hook from React to manage local state within your components. For example, in NewsList.js, you have state variables like news, selectedArticle, etc.<br>
+
+# Tech Stack:<br>
+Javascript<br>
+React.js<br>
+Redux-Toolkit<br>
+Css<br>
+Axios <br>
+Firebase<br>
+styled-components<br>
+
+# drawback of my project: <br>
+Currently this project is still in process. There are several errors and bugs which I have to fix.<br>
+But you can see my approach for the NewsApp.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
